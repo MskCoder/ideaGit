@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hotfix 冲突测试2.0");
         System.out.println("GitHub测试");
         System.out.println("Clone push测试");
+        System.out.println("Jack 更新");
     }
 }
