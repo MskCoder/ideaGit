@@ -11,6 +11,6 @@ public class GitTest {
         System.out.println("GitHub测试");
         System.out.println("Clone push测试");
         System.out.println("Jack 更新!");
-        System.out.println("11111");
+        System.out.println("22222");
     }
 }
