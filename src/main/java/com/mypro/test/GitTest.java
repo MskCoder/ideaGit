@@ -11,6 +11,7 @@ public class GitTest {
         System.out.println("GitHub测试");
         System.out.println("Clone push测试");
         System.out.println("Jack 更新!");
+        System.out.println("young 更新!");
         System.out.println("22222");
         System.out.println("是否冲突判断依据只是该次提交之前是否进行过更新或者合并,没有就会报冲突");
     }
